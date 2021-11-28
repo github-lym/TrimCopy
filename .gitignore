@@ -1,0 +1,4 @@
+trimCopy/bin/*
+trimCopy/obj/*
+.vscode/*
+.vs/*
